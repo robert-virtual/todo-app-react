@@ -1,0 +1,6 @@
+.todoItem {
+  box-shadow: 0 0 6px gray;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  margin: 0.5rem;
+}
